@@ -1,5 +1,13 @@
-### Hi there 👋
+<br/>
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+  I'm Javi.
+</p>
 
+Currently Mobile Team Lead at Plain Concepts, surrounded by amazing people.
+
+Have a look at my repos! 👇
+  
 <!--
 **pulimento/pulimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
